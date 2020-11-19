@@ -1,0 +1,13 @@
+mu = 8;
+sigma = 3; 
+leftDiscard = 0;
+rightDiscard = 3;
+numIter = 1000;
+numAddresses = 100;
+rwSize = 2:1:numAddresses + 1; % default = numAddresses + 1;
+writeBufferSize = 1:10; % default = 2
+offsetMult = 1.1;
+offsetMultBase = (mu + rightDiscard * sigma) / mu;
+
+ - writeBufferSize for Serial case is always kept 1.
+ - offsetMult and offsetMultBase are multiplied by 8 for the Serial case
