@@ -37,7 +37,7 @@ Other testing codes including the MMU codes for serial write, are available in t
 [Shikhar Tuli](https://www.github.com/shikhartuli) (shikhartuli98@gmail.com)
 
 ## Cite this work
-If you use our static model, please cite:
+If you use our RRAM-VAC MMU, please cite:
 ```
 @INPROCEEDINGS{tuli2020_rram-vac,
   author={S. {Tuli} and M. {Rios} and A. {Levisse} and D. A. {ESL}},
