@@ -50,6 +50,6 @@ If you use our static model, please cite:
   doi={10.1109/ASP-DAC47756.2020.9045220}}
 ```
 
-## References
+## Reference
 
 * **Shikhar Tuli, Marco Antonio Rios, Alexandre Sébastien Julien Levisse, David Atienza Alonso, [RRAM-VAC: A Variability-Aware Controller for RRAM-based Memory Architectures.](https://ieeexplore.ieee.org/abstract/document/9045220) 2020 25th Asia and South Pacific Design Automation Conference (ASP-DAC), Beijing, China, 2020, pp. 181-186, doi: 10.1109/ASP-DAC47756.2020.9045220.** 
